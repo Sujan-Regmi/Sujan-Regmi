@@ -1,4 +1,4 @@
-# 💫 About Me:
+#💫 About Me:
 a learner focused on full-stack web development.<br>
 current tech stack includes:
 
