@@ -4,7 +4,7 @@ current tech stack includes:
 
 React for frontend development,
 FastAPI for backend development, 
-and MongoDB for database management.
+
 <br><br>
 
 
